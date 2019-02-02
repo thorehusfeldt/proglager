@@ -25,3 +25,7 @@ Kattisuppgifter
 * domino
 * catering
 
+Thore's Red Scare-uppgift
+-------------------------
+
+https://github.com/thorehusfeldt/algdes-labs/tree/master/red-scare
