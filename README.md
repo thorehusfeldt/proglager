@@ -29,3 +29,9 @@ Thore's Red Scare-uppgift
 -------------------------
 
 https://github.com/thorehusfeldt/algdes-labs/tree/master/red-scare
+
+
+Kevin Wayne's bilder:
+---------------------
+
+http://www.cs.princeton.edu/~wayne/kleinberg-tardos/pdf/07NetworkFlowII-2x2.pdf
